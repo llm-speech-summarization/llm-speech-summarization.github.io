@@ -37,7 +37,7 @@ Finally, we include examples of our system's responses to other types of spoken 
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 50%;" >
+                <audio id="player" controls style="width: 60%;" >
                     <source src="audio/cnn_dailymail/article1.wav" type="audio/wav" />
                 </audio>
             </tr>
@@ -48,7 +48,7 @@ Finally, we include examples of our system's responses to other types of spoken 
 #### Text
 
 <font size="3">
-Juventus moved ever closer to clinching a fourth straight Serie A title by beating nearest challengers Lazio 2-0 in Turin. First-half goals from Carlos Tevez - his 26th of the season in all competitions - and centre-back Leonardo Bonucci pushed Juve 15 points clear of second place with only seven games remaining. Lazio did mount a late rally at the Juventus Stadium but the dismissal of midfielder Danilo Cataldi for a heavy tackle on Tevez ended their challenge. Carlos Tevez opened the scoring for Juventus after 17 minutes as they beat Lazio on Saturday . Tevez jumps for joy after firing Juventus ahead with his 26th goal of the season . The result brought Lazio's run of six consecutive victories to an end and the Biancocelesti could be dragged back into third place should their city rivals Roma beat Atalanta in the capital on Sunday. Earlier on Saturday, ambitious Sampdoria were held to an unlikely goalless draw by Cesena but used the point to take a share of fourth place. The Genoa club dominated their relegation-threatened opponents from start to finish but found goalkeeper Federico Agliardi an immovable object when their radar was not malfunctioning. Samp are now level on Napoli with 50 points while 18th-placed Cesena are six points shy of Atalanta and safety with seven games still to play.
+Juventus moved ever closer to clinching a fourth straight Serie A title by beating nearest challengers Lazio 2-0 in Turin. First-half goals from Carlos Tevez - his 26th of the season in all competitions - and centre-back Leonardo Bonucci pushed Juve 15 points clear of second place with only seven games remaining. Lazio did mount a late rally at the Juventus Stadium but the dismissal of midfielder Danilo Cataldi for a heavy tackle on Tevez ended their challenge. Carlos Tevez opened the scoring for Juventus after 17 minutes as they beat Lazio on Saturday . Tevez jumps for joy after firing Juventus ahead with his 26th goal of the season . The result brought Lazio's run of six consecutive victories to an end and the Biancocelesti could be dragged back into third place should their city rivals Roma beat Atalanta in the capital on Sunday. Earlier on Saturday, ambitious Sampdoria were held to an unlikely goalless draw by Cesena but used the point to take a share of fourth place. The Genoa club dominated their relegation-threatened opponents from start to finish but found goalkeeper Federico Agliardi an immovable object when their radar was not malfunctioning. Samp are now level on Napoli with 60 points while 18th-placed Cesena are six points shy of Atalanta and safety with seven games still to play.
 </font>
 
 #### Reference summary from CNN / DailyMail
@@ -76,13 +76,13 @@ Juventus is close to winning a fourth straight Serie A title by defeating Lazio 
 **2. Prompt: "Summarize the following article in 3 sentences or less without mentioning any names: "**
 
 <font size="3">
-Juventus's 2-0 victory over Lazio moved them closer to their fourth consecutive Serie A title. Lazio's 15-point lead over second place was reduced to 19 points after the match. Sampdoria drew 0-0 against Cesena, leaving both teams level on 50 points.
+Juventus's 2-0 victory over Lazio moved them closer to their fourth consecutive Serie A title. Lazio's 15-point lead over second place was reduced to 19 points after the match. Sampdoria drew 0-0 against Cesena, leaving both teams level on 60 points.
 </font>
 
 **3. Prompt: "Summarize the following article in 3 sentences or less, focusing on Lazio: "**
 
 <font size="3">
-Carlos Tevez scored twice as Juventus defeated Lazio 2-0, moving 15 points ahead of second-place rivals. Lazio's six-game winning streak ended, and the team could be dragged back into third place if their city rivals, Roma, beat Atalanta. Sampdoria drew 0-0 against Cesena, leaving both teams level on 50 points.
+Carlos Tevez scored twice as Juventus defeated Lazio 2-0, moving 15 points ahead of second-place rivals. Lazio's six-game winning streak ended, and the team could be dragged back into third place if their city rivals, Roma, beat Atalanta. Sampdoria drew 0-0 against Cesena, leaving both teams level on 60 points.
 </font>
 
 ### Article 2
@@ -93,7 +93,7 @@ Carlos Tevez scored twice as Juventus defeated Lazio 2-0, moving 15 points ahead
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 50%;" >
+                <audio id="player" controls style="width: 60%;" >
                     <source src="audio/cnn_dailymail/article2.wav" type="audio/wav" />
                 </audio>
             </tr>
@@ -142,7 +142,7 @@ Bobby Burns, a 18-year-old from Nashville, Tennessee, was inspired to create his
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 50%;" >
+                <audio id="player" controls style="width: 60%;" >
                     <source src="audio/cnn_dailymail/article3.wav" type="audio/wav" />
                 </audio>
             </tr>
