@@ -37,8 +37,8 @@ Finally, we include examples of our system's responses to other types of spoken 
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 100%;" >
-                    <source src="audio/vctk_orig/p363_194.wav" type="audio/wav" />
+                <audio id="player" controls style="width: 50%;" >
+                    <source src="audio/cnn_dailymail/article1.wav" type="audio/wav" />
                 </audio>
             </tr>
         </table>
@@ -89,9 +89,17 @@ Carlos Tevez scored twice as Juventus defeated Lazio 2-0, moving 15 points ahead
 
 **Audio (StyleTTS 2)**
 
-<audio id="player">
-    <source src="audio/cnn_dailymail/article2.wav" type="audio/wav" />
-</audio>
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
+            <tr>
+                <audio id="player" controls style="width: 50%;" >
+                    <source src="audio/cnn_dailymail/article2.wav" type="audio/wav" />
+                </audio>
+            </tr>
+        </table>
+    </div>
+</div>
 
 #### Text
 
@@ -130,9 +138,17 @@ Bobby Burns, a 18-year-old from Nashville, Tennessee, was inspired to create his
 
 **Audio (StyleTTS 2)**
 
-<audio id="player">
-    <source src="audio/cnn_dailymail/article3.wav" type="audio/wav" />
-</audio>
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
+            <tr>
+                <audio id="player" controls style="width: 50%;" >
+                    <source src="audio/cnn_dailymail/article3.wav" type="audio/wav" />
+                </audio>
+            </tr>
+        </table>
+    </div>
+</div>
 
 #### Text
 
