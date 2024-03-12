@@ -92,12 +92,9 @@ A YouTuber named Bobby Burns created a viral fan trailer for "Batman v. Superman
 
 Bobby Burns, a 18-year-old from Nashville, Tennessee, was inspired to create his Batman v Superman Dawn of Justice trailer makeover after watching the original trailer. He used classic superhero footage instead of Ben Affleck and Henry Cavill and imagined characters like Adam West and Christopher Reeve in the roles. The reaction to his work has been positive, with many people enjoying the contrast between the old and new Batman.
 
-**2. Prompt: "Summarize the following article in 3 sentences or less without mentioning any names: "**
+**2. Prompt: "Summarize the following article, focusing on the content in the quotes: "**
 
-
-
-**3. Prompt: "Summarize the following article in 3 sentences or less, focusing on Lazio: "**
-
+Bobby Burns, a 18-year-old from Nashville, Tennessee, was inspired to create his Batman v Superman Dawn of Justice trailer makeover after watching the original Batman TV series. He wanted to contrast the old with the new and created a version using classic superhero footage instead of Ben Affleck and Henry Cavill. The reaction to his work has been great, with many people enjoying it. Burns worked on the edit within four hours of the original trailer going up and it was up on the internet within an hour. The reaction has been positive, with many people enjoying his version.
 
 ### Article 3
 
@@ -126,14 +123,13 @@ Israeli Prime Minister Benjamin Netanyahu has been granted an additional two wee
 
 Israeli Prime Minister Benjamin Netanyahu has been granted an additional two weeks to form a government. President Reuven Rivlin expressed hope that a stable government would be established soon, as the current transitional government has not received the confidence of the Nesset and is viewed by the public as needing to be dealt with. Netanyahu's Likud party won 30 of the 120 seats in the Nesset, giving it the first chance at forming a coalition government, while the Zionist Union came in second with 24 seats.
 
-**2. Prompt: "Summarize the following article in 3 sentences or less without mentioning any names: "**
+**2. Prompt: "Summarize the following article in 8 sentences or less, focusing on Lazio: "**
 
+Israeli Prime Minister Benjamin Netanyahu has been granted an additional two weeks to form a government. President Reuven Rivlin made the request at Netanyahu's Jerusalem home, stating that progress has been made but more time is needed to form a stable government. Netanyahu requires additional time to address important issues that will aid in meeting Israel's challenges. He must form his government within 42 days, as per Israeli law. Rivlin expressed hope that a stable government will be established, as the current transitional government has not received public confidence. Netanyahu's Likud party won 30 of the 120 seats in the Knesset, giving them the first opportunity to form a coalition government. The Zionist Union came in second with 24 seats.
 
+**3. Prompt: "Summarize the following article, explicitly including information in quotes: "**
 
-**3. Prompt: "Summarize the following article in 3 sentences or less, focusing on Lazio: "**
-
-
-
+Israeli Prime Minister Benjamin Netanyahu has been granted an additional two weeks to form a government, according to President Reuven Rivlin. Netanyahu made the request at a meeting at Rivlin's Jerusalem home on Monday. The president stated that progress has been made and the government is on the way to being formed. However, Netanyahu requested additional time to ensure a stable government and to reach agreements on important issues that will aid in meeting the challenges facing Israel. Netanyahu must form his government within 42 days, according to Israeli law. Rivlin told Netanyahu that the entire people of Israel hope that a government will be established.
 
 [Back to top](#contents)
 
