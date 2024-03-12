@@ -37,7 +37,7 @@ Finally, we include examples of our system's responses to other types of spoken 
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 60%;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/cnn_dailymail/article1.wav" type="audio/wav" />
                 </audio>
             </tr>
@@ -101,7 +101,7 @@ Juventus moved 15 points clear of second place in Serie A with a 2-0 win over La
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 60%;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/cnn_dailymail/article2.wav" type="audio/wav" />
                 </audio>
             </tr>
@@ -155,7 +155,7 @@ A YouTuber named Bobby Burns created a viral fan trailer for "Batman v. Superman
     <div class="col-12 ml-auto">
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
             <tr>
-                <audio id="player" controls style="width: 60%;" >
+                <audio id="player" controls style="width: 100%;" >
                     <source src="audio/cnn_dailymail/article3.wav" type="audio/wav" />
                 </audio>
             </tr>
