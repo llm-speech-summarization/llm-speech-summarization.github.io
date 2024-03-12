@@ -21,7 +21,7 @@ Finally, we include examples of our system's responses to other types of spoken 
 ## Navigation
 
 * [Summarization Examples: CNN / DailyMail](#summarization-cnn-dailymail)
-* [Summarization Examples: In the Wild Data](summarization-in-the-wild)
+* [Summarization Examples: In the Wild Data](#summarization-in-the-wild)
 * [Responses to General Speech Prompts](#general-responses)
 
 <p></p>
