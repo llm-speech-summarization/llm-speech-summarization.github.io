@@ -33,9 +33,11 @@ Finally, we include examples of our system's responses to other types of spoken 
 
 **Audio (StyleTTS 2)**
 
-<audio id="player">
-    <source src="audio/cnn_dailymail/article1.wav" type="audio/wav" />
-</audio>
+<div class="row">
+    <audio id="player">
+        <source src="audio/cnn_dailymail/article1.wav" type="audio/wav" />
+    </audio>
+</div>
 
 #### Text
 
