@@ -69,20 +69,20 @@ Juventus moved 15 points clear of second place in Serie A with a 2-0 win over La
 
 <font size="3">
 <b>1. Prompt: "Summarize the following article in 3 sentences or less: "</b>
-
+<hr>
 Juventus is close to winning a fourth straight Serie A title by defeating Lazio 2-0. Carlos Tevez scored his 26th goal of the season, helping Juventus take an early lead. Lazio attempted a late comeback but were unable to score, ending their six-game winning streak.
 </font>
 
 
 <font size="3">
 <b>2. Prompt: "Summarize the following article in 3 sentences or less without mentioning any names: "</b>
-
+<hr>
 Juventus's 2-0 victory over Lazio moved them closer to their fourth consecutive Serie A title. Lazio's 15-point lead over second place was reduced to 19 points after the match. Sampdoria drew 0-0 against Cesena, leaving both teams level on 60 points.
 </font>
 
 <font size="3">
 <b>3. Prompt: "Summarize the following article in 3 sentences or less, focusing on Lazio: "</b>
-
+<hr>
 Carlos Tevez scored twice as Juventus defeated Lazio 2-0, moving 15 points ahead of second-place rivals. Lazio's six-game winning streak ended, and the team could be dragged back into third place if their city rivals, Roma, beat Atalanta. Sampdoria drew 0-0 against Cesena, leaving both teams level on 60 points.
 </font>
 
