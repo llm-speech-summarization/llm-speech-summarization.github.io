@@ -16,7 +16,7 @@ We also show summaries of stories spoken by actual people in "in the wild" setti
 
 Finally, we include examples of our system's responses to other types of spoken prompts and queries, demonstrating its ability to understand and process general speech inputs beyond those for summarization.
 
-**All summaries shown below were generated using speech inputs.**
+**All outputs shown below from our proposed system were generated using speech inputs.**
 
 ## Navigation
 
