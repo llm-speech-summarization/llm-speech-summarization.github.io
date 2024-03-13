@@ -14,7 +14,7 @@ This page contains examples of spoken document summaries generated using the met
 
 We also show summaries of stories spoken by actual people in "in-the-wild" settings, demonstrating the usability of our method in real-life scenarios.
 
-Finally, we include examples of our system's responses to other types of spoken prompts and queries, demonstrating its ability to understand and process general speech inputs beyond those for summarization.
+Finally, we include examples of our system's responses to other types of speech prompts using spoken questions from the human-spoken [HeySQuAD dataset](https://github.com/yijingjoanna/HeySQuAD), demonstrating its ability to understand and process general speech inputs beyond those for summarization.
 
 **All outputs shown below from our proposed system were generated using speech inputs.**
 
@@ -257,8 +257,6 @@ I feel like I'm living on borrowed time. I have a limited amount of savings, and
     <hr>
 </font>
 
-[Back to top](#contents)
-
 <p></p>
 
 ### Sample 2 (Male Speaker)
@@ -307,6 +305,120 @@ My personal experiences that was with, when I was in high school everybody wante
 <p></p>
 
 <a id="general-responses"></a>
-## Responses to General Speech Prompts
+## Responses to Spoken Questions from HeySQuAD
+
+### Example 1
+
+#### Audio
+
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
+            <tr>
+                <audio id="player" controls style="width: 100%;" >
+                    <source src="audio/heysquad/heysquad1.wav" type="audio/wav" />
+                </audio>
+            </tr>
+        </table>
+    </div>
+</div>
+
+#### Transcript
+
+<font size="3">
+Combustion is caused by an oxidant and a fuel. What role does oxygen play in combustion?
+</font>
+
+#### LLM Response
+
+<font size="3">
+    <p>
+        Oxygen plays a crucial role in combustion, which is the process of burning a fuel in the presence of oxygen to produce heat, light, and various byproducts.
+        <br><br>
+        In combustion, oxygen serves as the oxidizing agent, meaning it provides the energy needed to break down the fuel molecules into their constituent elements (such as carbon dioxide, water vapor, and other gases). The chemical reaction can be represented as:
+        <br><br>
+         fuel + O2 → products + heat
+        <br><br>
+        Here, fuel can be any organic or inorganic substance that can be burned, such as gasoline, wood, coal, or methane. Oxygen is essential for the combustion process to occur, as it reacts with the fuel to produce heat and light, which can be harnessed for various purposes, such as powering engines, generating electricity, or cooking food.
+        <br><br>
+        In summary, oxygen plays a vital role in combustion by providing the energy required to break down the fuel molecules into their constituent elements, resulting in the release of heat, light, and various byproducts.
+    </p>
+</font>
+
+<hr>
+
+### Example 2
+
+#### Audio
+
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
+            <tr>
+                <audio id="player" controls style="width: 100%;" >
+                    <source src="audio/heysquad/heysquad2.wav" type="audio/wav" />
+                </audio>
+            </tr>
+        </table>
+    </div>
+</div>
+
+#### Transcript
+
+<font size="3">
+What is the highest court in European Union Law?
+</font>
+
+#### LLM Response
+
+<font size="3">
+    <p>
+        The highest court in the European Union (EU) is the European Court of Justice (ECJ). The ECJ is the primary judicial institution of the EU and is responsible for interpreting EU law and ensuring that EU member states comply with EU law. The ECJ is composed of 27 judges who are appointed by the national courts of each EU member state. The ECJ is based in Luxembourg and operates as a court of last resort, meaning that its decisions are binding on all EU member states. The ECJ's decisions are final and non-appealable, and they are considered to be the highest authority in EU law.
+        <br><br>
+It's worth noting that the European Court of Human Rights (ECHR) is another important institution in the EU legal system, it is the highest court for human rights in the EU and it is responsible for interpreting the European Convention on Human Rights and the European Social Charter. The ECHR is based in Strasbourg, France and it is an independent judicial institution, but it is not considered as the highest court in the EU legal system.
+        <br><br>
+In summary, the European Court of Justice (ECJ) is the highest court in the European Union (EU) and it is responsible for interpreting EU law and ensuring that EU member states comply with EU law. The European Court of Human Rights (ECHR) is another important institution in the EU legal system, it is the highest court for human rights in the EU and it is responsible for interpreting the European Convention on Human Rights and the European Social Charter.
+    </p>
+</font>
+
+<hr>
+
+### Example 3
+
+#### Audio
+
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">        
+            <tr>
+                <audio id="player" controls style="width: 100%;" >
+                    <source src="audio/heysquad/heysquad3.wav" type="audio/wav" />
+                </audio>
+            </tr>
+        </table>
+    </div>
+</div>
+
+#### Transcript
+
+<font size="3">
+Why does competition among workers drive down wages?
+</font>
+
+#### LLM Response
+
+<font size="3">
+    <p>
+        The relationship between competition among workers and wages is complex and can be influenced by various factors. One of the primary reasons competition drives down wages is the concept of supply and demand in the labor market. When there is high competition for jobs, employers have more options and can choose the workers they want to hire at the lowest possible cost. This can lead to employers offering lower wages to attract workers and maintain a competitive workforce.
+        <br><br>
+        Additionally, competition can lead to a race to the bottom, where employers try to keep wages low to attract workers and stay competitive. This can result in employers offering lower wages, fewer benefits, and less job security, which can ultimately lead to lower overall wages for all workers.
+        <br><br>
+        Another factor is the role of unions. When unions are strong and workers have the power to negotiate better wages and working conditions, employers may be less likely to engage in wage competition. However, when unions are weak or non-existent, workers may not have the same bargaining power, and employers may be more likely to engage in wage competition to attract workers.
+        <br><br>
+        Furthermore, technological advancements and automation can also contribute to wage competition. As machines and software become more advanced, they can perform tasks that were previously done by humans, leading to job displacement and a need for workers to compete for fewer jobs. This can result in employers offering lower wages to attract workers and maintain a competitive workforce.
+        <br><br>
+        It's important to note that not all cases of competition among workers result in wage downsizing. In some cases, competition can lead to innovation, increased productivity, and higher wages for workers. However, the general trend of competition driving down wages is a significant concern in the labor market today.
+    </p>
+</font>
 
 [Back to top](#contents)
