@@ -323,7 +323,7 @@ My personal experiences that was with, when I was in high school everybody wante
     </div>
 </div>
 
-#### Transcript
+#### Question Transcript
 
 <font size="3">
 Combustion is caused by an oxidant and a fuel. What role does oxygen play in combustion?
@@ -363,7 +363,7 @@ Combustion is caused by an oxidant and a fuel. What role does oxygen play in com
     </div>
 </div>
 
-#### Transcript
+#### Question Transcript
 
 <font size="3">
 What is the highest court in European Union Law?
