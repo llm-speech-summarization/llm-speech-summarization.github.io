@@ -10,9 +10,9 @@ In this work, we introduce a framework for speech summarization that leverages t
 
 ## Contents
 
-This page contains examples of spoken document summaries generated using the method proposed in the above paper. We provide sample summaries of articles from the CNN / DailyMail Dataset, where speech has been synthesized using a StyleTTS 2 model trained on the LJ Speech dataset, as well as examples demonstrating how varying the prompt to the LLM can produce summaries in different styles.
+This page contains examples of spoken document summaries generated using the method proposed in the above paper. We provide sample summaries of articles from the [CNN / DailyMail Dataset](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail), where speech has been synthesized using a [StyleTTS 2](https://github.com/yl4579/StyleTTS2) model trained on the LJ Speech dataset, as well as examples demonstrating how varying the prompt to the LLM can produce summaries in different styles.
 
-We also show summaries of stories spoken by actual people in "in the wild" settings, demonstrating the usability of our method in real-life scenarios.
+We also show summaries of stories spoken by actual people in "in-the-wild" settings, demonstrating the usability of our method in real-life scenarios.
 
 Finally, we include examples of our system's responses to other types of spoken prompts and queries, demonstrating its ability to understand and process general speech inputs beyond those for summarization.
 
@@ -215,7 +215,7 @@ Israeli Prime Minister Benjamin Netanyahu has been granted an additional two wee
 <a id="summarization-in-the-wild"></a>
 ## Summarization Examples: In-the-Wild Data
 
-The following shows examples of summaries produced by our system when feeding in real spoken utterances recorded in in-the-wild settings. In both examples, the speakers are sharing a personal life experience.
+The following shows examples of summaries produced by our system when feeding in real spoken utterances recorded in "in-the-wild" settings. In both examples, the speakers are sharing a personal life experience.
 
 ### Sample 1 (Female Speaker)
 
