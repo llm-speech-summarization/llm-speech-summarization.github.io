@@ -421,4 +421,6 @@ Why does competition among workers drive down wages?
     </p>
 </font>
 
+<hr>
+
 [Back to top](#contents)
