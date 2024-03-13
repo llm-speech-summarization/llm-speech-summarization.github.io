@@ -22,7 +22,7 @@ Finally, we show examples of our system's responses to spoken questions from the
 
 * [Summarization Examples: CNN / DailyMail](#summarization-cnn-dailymail)
 * [Summarization Examples: In the Wild Data](#summarization-in-the-wild)
-* [Responses to General Speech Prompts](#general-responses)
+* [Responses to General Speech Prompts: Spoken Question Answering on HeySQuAD](#general-responses)
 
 <p></p>
 
@@ -305,7 +305,7 @@ My personal experiences that was with, when I was in high school everybody wante
 <p></p>
 
 <a id="general-responses"></a>
-## Responses to Spoken Questions from HeySQuAD
+## Responses to General Speech Prompts: Spoken Question Answering on HeySQuAD
 
 ### Example 1
 
