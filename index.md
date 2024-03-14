@@ -400,7 +400,7 @@ In summary, the European Court of Justice (ECJ) is the highest court in the Euro
     </div>
 </div>
 
-#### Transcript
+#### Question Transcript
 
 <font size="3">
 "Why does competition among workers drive down wages?"
