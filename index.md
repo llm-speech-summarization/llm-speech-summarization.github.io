@@ -14,7 +14,7 @@ This page contains examples of spoken document summaries generated using the met
 
 We also show summaries of stories spoken by actual people in "in-the-wild" settings, demonstrating the usability of our method in real-life scenarios.
 
-Finally, we show examples of our system's responses to spoken questions from the human-spoken [HeySQuAD dataset](https://github.com/yijingjoanna/HeySQuAD), demonstrating its ability to utilize its capabilities as an LLM while understanding and processing general speech inputs.
+Finally, we show examples of our system's responses when using spoken questions from the human-spoken [HeySQuAD dataset](https://github.com/yijingjoanna/HeySQuAD) as prompts, demonstrating its ability to utilize its capabilities as an LLM while understanding and processing general speech inputs.
 
 **All outputs shown below from our proposed system were generated using speech inputs.**
 
