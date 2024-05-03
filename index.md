@@ -21,7 +21,7 @@ Finally, we show examples of our system's responses when using spoken questions 
 ## Navigation
 
 * [Summarization Examples: CNN / DailyMail](#summarization-cnn-dailymail)
-* [Summarization Examples: In the Wild Data](#summarization-in-the-wild)
+* [Summarization Examples: Real Speech Data](#summarization-in-the-wild)
 * [Responses to General Speech Prompts: Spoken Question Answering on HeySQuAD](#general-responses)
 
 <p></p>
@@ -213,7 +213,7 @@ Netanyahu cites government stability and reaching "agreement on important issues
 <p></p>
 
 <a id="summarization-in-the-wild"></a>
-## Summarization Examples: In-the-Wild Data
+## Summarization Examples: Real Speech Data
 
 The following shows examples of summaries produced by our system when feeding in real spoken utterances recorded in "in-the-wild" settings. In both examples, the speakers are sharing a personal life experience.
 
