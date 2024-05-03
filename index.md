@@ -12,7 +12,7 @@ In this work, we introduce a framework for speech summarization that leverages t
 
 This page contains examples of spoken document summaries generated using the method proposed in the above paper. We provide sample summaries of articles from the [CNN / DailyMail Dataset](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail), where speech has been synthesized using a [StyleTTS 2](https://github.com/yl4579/StyleTTS2) model trained on the LJ Speech dataset, as well as examples demonstrating how varying the prompt to the LLM can produce summaries in different styles.
 
-We also show summaries of stories spoken by actual people in "in-the-wild" settings, demonstrating the usability of our method in real-life scenarios.
+We also demonstrate summarization of real audio that was recorded in "in-the-wild" settings (stories spoken by actual people), demonstrating the generalizability of our method to real-life scenarios.
 
 Finally, we show examples of our system's responses when using spoken questions from the human-spoken [HeySQuAD dataset](https://github.com/yijingjoanna/HeySQuAD) as prompts, demonstrating its ability to utilize its capabilities as an LLM while understanding and processing general speech inputs.
 
