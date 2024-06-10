@@ -1,6 +1,6 @@
 # Prompting Large Language Models with Audio for General-Purpose Speech Summarization
 
-<font size="5">Anonymous submission to Interspeech 2024</font>
+<font size="5">Wonjune Kang, Deb Roy</font>
 
 ## Abstract
 
